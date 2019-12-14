@@ -1,0 +1,174 @@
+> main.cpp 7	
+
+------------------------------------------------------------------
+			GENERAL THOMAS ALGORITHM, RUN 1					
+------------------------------------------------------------------
+
+0. Exit
+1. 9n algorithm
+2. 4n algorithm
+3. LU armadillo
+4. Error analysis
+Choose what you want to test: 1
+
+Total time spent on algoritghm with n = 10 was 1ms
+Total time spent on algoritghm with n = 100 was 2ms
+Total time spent on algoritghm with n = 1000 was 14ms
+Total time spent on algoritghm with n = 10000 was 114ms
+Total time spent on algoritghm with n = 100000 was 830ms
+Total time spent on algoritghm with n = 1000000 was 8097ms
+Total time spent on algoritghm with n = 10000000 was 119178ms
+
+------------------------------------------------------------------
+			GENERAL THOMAS ALGORITHM, RUN 2
+------------------------------------------------------------------
+
+0. Exit
+1. 9n algorithm
+2. 4n algorithm
+3. LU armadillo
+4. Error analysis
+Choose what you want to test: 1
+
+Total time spent on algoritghm with n = 10 was 0ms
+Total time spent on algoritghm with n = 100 was 1ms
+Total time spent on algoritghm with n = 1000 was 7ms
+Total time spent on algoritghm with n = 10000 was 118ms
+Total time spent on algoritghm with n = 100000 was 743ms
+Total time spent on algoritghm with n = 1000000 was 9420ms
+Total time spent on algoritghm with n = 10000000 was 125883ms
+
+------------------------------------------------------------------
+			GENERAL THOMAS ALGORITHM, RUN 3
+------------------------------------------------------------------
+
+0. Exit
+1. 9n algorithm
+2. 4n algorithm
+3. LU armadillo
+4. Error analysis
+Choose what you want to test: 1
+
+Total time spent on algoritghm with n = 10 was 0ms
+Total time spent on algoritghm with n = 100 was 1ms
+Total time spent on algoritghm with n = 1000 was 11ms
+Total time spent on algoritghm with n = 10000 was 112ms
+Total time spent on algoritghm with n = 100000 was 951ms
+Total time spent on algoritghm with n = 1000000 was 9110ms
+Total time spent on algoritghm with n = 10000000 was 93492ms
+0. Exit
+1. 9n algorithm
+2. 4n algorithm
+3. LU armadillo
+4. Error analysis
+
+------------------------------------------------------------------
+			SPECIAL THOMAS ALGORITHM, RUN 1
+------------------------------------------------------------------
+
+0. Exit
+1. 9n algorithm
+2. 4n algorithm
+3. LU armadillo
+4. Error analysis
+Choose what you want to test: 2
+
+Total time spent on algoritghm with n = 10 was 1ms
+Total time spent on algoritghm with n = 100 was 1ms
+Total time spent on algoritghm with n = 1000 was 10ms
+Total time spent on algoritghm with n = 10000 was 126ms
+Total time spent on algoritghm with n = 100000 was 750ms
+Total time spent on algoritghm with n = 1000000 was 9108ms
+Total time spent on algoritghm with n = 10000000 was 125283ms
+
+------------------------------------------------------------------
+			SPECIAL THOMAS ALGORITHM, RUN 2
+------------------------------------------------------------------
+
+0. Exit
+1. 9n algorithm
+2. 4n algorithm
+3. LU armadillo
+4. Error analysis
+Choose what you want to test: 2
+
+Total time spent on algoritghm with n = 10 was 0ms
+Total time spent on algoritghm with n = 100 was 1ms
+Total time spent on algoritghm with n = 1000 was 10ms
+Total time spent on algoritghm with n = 10000 was 131ms
+Total time spent on algoritghm with n = 100000 was 834ms
+Total time spent on algoritghm with n = 1000000 was 9446ms
+Total time spent on algoritghm with n = 10000000 was 119947ms
+
+------------------------------------------------------------------
+			SPECIAL THOMAS ALGORITHM, RUN 3
+------------------------------------------------------------------
+
+0. Exit
+1. 9n algorithm
+2. 4n algorithm
+3. LU armadillo
+4. Error analysis
+Choose what you want to test: 2
+
+Total time spent on algoritghm with n = 10 was 0ms
+Total time spent on algoritghm with n = 100 was 2ms
+Total time spent on algoritghm with n = 1000 was 11ms
+Total time spent on algoritghm with n = 10000 was 106ms
+Total time spent on algoritghm with n = 100000 was 896ms
+Total time spent on algoritghm with n = 1000000 was 8517ms
+Total time spent on algoritghm with n = 10000000 was 90576ms
+
+------------------------------------------------------------------
+			ARMADILLO LU ALGORITHM, RUN 1
+------------------------------------------------------------------
+
+0. Exit
+1. 9n algorithm
+2. 4n algorithm
+3. LU armadillo
+4. Error analysis
+Choose what you want to test: 3
+
+Total time spent on algoritghm with n = 10 was 5ms
+Total time spent on algoritghm with n = 100 was 3ms
+Total time spent on algoritghm with n = 1000 was 168ms
+Total time spent on algoritghm with n = 10000 was 18972ms
+
+error: arma::memory::acquire(): out of memory
+
+------------------------------------------------------------------
+			ARMADILLO LU ALGORITHM, RUN 2
+------------------------------------------------------------------
+
+0. Exit
+1. 9n algorithm
+2. 4n algorithm
+3. LU armadillo
+4. Error analysis
+Choose what you want to test: 3
+
+Total time spent on algoritghm with n = 10 was 1ms
+Total time spent on algoritghm with n = 100 was 2ms
+Total time spent on algoritghm with n = 1000 was 147ms
+Total time spent on algoritghm with n = 10000 was 17212ms
+
+error: arma::memory::acquire(): out of memory
+
+------------------------------------------------------------------
+			ARMADILLO LU ALGORITHM, RUN 3
+------------------------------------------------------------------
+
+0. Exit
+1. 9n algorithm
+2. 4n algorithm
+3. LU armadillo
+4. Error analysis
+Choose what you want to test: 3
+
+Total time spent on algoritghm with n = 10 was 6ms
+Total time spent on algoritghm with n = 100 was 2ms
+Total time spent on algoritghm with n = 1000 was 166ms
+Total time spent on algoritghm with n = 10000 was 20478ms
+
+error: arma::memory::acquire(): out of memory
