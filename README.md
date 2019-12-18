@@ -13,7 +13,7 @@ Eigenvalue solver
 ## Project 3
 Numerical integration (Monte Carlo)
 
-##Project 4
+## Project 4
 2D Ising model
 
 ## Project 5
