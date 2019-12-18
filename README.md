@@ -12,7 +12,7 @@ for 2 electrons in a 3-dimensional harmonic oscillator well
 Numerical integration with Gauss-Legendre, Gauss-Laguerre quadrature and Monte Carlo
 
 ## Project 4
-2D Ising model with Monte Carlo simulations
+2D Ising model with the Metropolis algorithm
 
 ## Project 5
 StockMarket model based on transactions and Monte Carlo simulations
