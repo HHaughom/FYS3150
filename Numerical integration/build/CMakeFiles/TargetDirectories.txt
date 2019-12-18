@@ -1,4 +1,0 @@
-/home/hsh/Documents/FYS3150/Project3/build/CMakeFiles/rebuild_cache.dir
-/home/hsh/Documents/FYS3150/Project3/build/CMakeFiles/test.dir
-/home/hsh/Documents/FYS3150/Project3/build/CMakeFiles/edit_cache.dir
-/home/hsh/Documents/FYS3150/Project3/build/CMakeFiles/main.dir
