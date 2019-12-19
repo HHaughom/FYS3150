@@ -1,5 +1,5 @@
-# FYS3150 - Computational Physics
-All project in FYS3150 Fall 2019
+# FYS3150/4150 - Computational Physics
+All project in FYS3150/4150 Fall 2019
 
 ## Project 1
 Poisson equation with Dirichlet boundary conditions
